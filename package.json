@@ -18,5 +18,9 @@
     "@runnerty/trigger-schedule": "latest",
     "@runnerty/executor-shell": "latest",
     "@runnerty/notifier-console": "latest"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-prettier": "^3.1.0"
   }
 }
